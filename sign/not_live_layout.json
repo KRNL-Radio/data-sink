@@ -1,0 +1,38 @@
+{
+    "type": "sign_list",
+    "screens": [
+        {
+            "type": "random_psa",
+            "timing": {}
+        },
+        {
+
+            "type": "krnl_meeting_info",
+            "timing": {}
+        },
+        {
+            "type": "weather",
+            "timing": {}
+        },
+        {
+            "type": "krnl_up_next_shows",
+            "timing": {}
+        },
+        {
+            "type": "krnl_events",
+            "timing": {}
+        },
+        {
+            "type": "krnl_website",
+            "timing": {}
+        },
+        {
+            "type": "krnl_now_playing",
+            "timing": {}
+        },
+        {
+            "type": "block_calendar",
+            "timing": {}
+        }
+    ]
+}
