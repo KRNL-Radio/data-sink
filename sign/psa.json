@@ -7,7 +7,12 @@
         },
         {
             "type": "text",
-            "text": "uwu"
+            "text": "trans rights"
+        },
+        {
+            "type": "qr",
+            "text": "test qr",
+            "data": "https://krnl-radio.github.io"
         }
     ]
 }
