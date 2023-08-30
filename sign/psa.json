@@ -3,16 +3,7 @@
     "contents": [
         {
             "type": "text",
-            "text": "hello!"
+            "text": "welcome back!"
         },
-        {
-            "type": "text",
-            "text": "trans rights"
-        },
-        {
-            "type": "qr",
-            "text": "test qr",
-            "data": "https://krnl-radio.github.io"
-        }
     ]
 }

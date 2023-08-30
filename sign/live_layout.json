@@ -24,6 +24,10 @@
         {
             "type": "krnl_events",
             "timing": {}
+        },
+        {
+            "type": "random_psa",
+            "timing": {}
         }
     ]
 }
