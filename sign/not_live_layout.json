@@ -6,6 +6,10 @@
             "timing": {}
         },
         {
+            "type": "slogan",
+            "timing": {}
+        },
+        {
             "type": "krnl_meeting_info",
             "timing": {}
         },

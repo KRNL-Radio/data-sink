@@ -2,13 +2,9 @@
     "type": "sign_psas",
     "contents": [
         {
-            "type": "text",
-            "text": "welcome back!"
-        },
-        {
             "type": "qr",
             "text": "KRNL Website",
-            "data": "https://youtu.be/kemivUKb4f4"
+            "data": "https://krnl-radio.github.io"
         }
     ]
 }
