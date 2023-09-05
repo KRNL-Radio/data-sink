@@ -10,6 +10,14 @@
             "timing": {}
         },
         {
+            "type": "krnl_now_playing",
+            "timing": {}
+        },
+        {
+            "type": "shows_and_counting",
+            "timing": {}
+        },
+        {
             "type": "krnl_meeting_info",
             "timing": {}
         },
@@ -22,19 +30,7 @@
             "timing": {}
         },
         {
-            "type": "krnl_events",
-            "timing": {}
-        },
-        {
             "type": "krnl_website",
-            "timing": {}
-        },
-        {
-            "type": "krnl_now_playing",
-            "timing": {}
-        },
-        {
-            "type": "block_calendar",
             "timing": {}
         }
     ]
